@@ -1,0 +1,9 @@
+Marek Dalewski
+Wydział Elektroniki, Politechnika Wrocławska
+
+Demistyfikacja steganografii
+
+Uciekając w coraz większą abstrakcję, podczas omawiania danego zagadnienia, można nieopatrznie rozmijać się z rzeczywistymi ramami, brnąc w coraz bardziej odrealnione scenariusze. W historii takich sytuacji można wliczać wiele (jak choćby pomysł zdelegalizowania szyfrowania danych). Dlatego ważne jest ugruntowanie praktyczne wszelkich abstrakcyjnych dyskusji. Jak jednak wytłumaczyć tak techniczne skomplikowane zagadnienie, jak steganografia cyfrowa, widowni nie mającej podłoża technicznego?
+
+Celem prezentacji jest przedstawienie zagadnienia ukrywania informacji w praktycznym, zrozumiałym dla każdego, przykładzie. Jest to niezbędne wprowadzenie do dalszych, bardziej abstrakcyjnych dyskusji na temat steganografii i jej związków z prawem.
+
