@@ -1,0 +1,6 @@
+
+/build*
+
+# OS specific files
+**/Thumbs.db # Untrack Windows thumbnail cache (Thumbs.db)
+**/.DS_Store # Untrack Apple macOS custom folder attributes (.DS_Store)
